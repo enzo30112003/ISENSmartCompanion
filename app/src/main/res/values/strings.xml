@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ISENSmartCompanion</string>
+    <string name="isen_logo">logo ISEN</string>
+    <string name="filled_event_icon">filled event icon</string>
+    <string name="unfilled_event_logo">unfilled event icon</string>
+    <string name="bottom_navbar_home">Home</string>
+    <string name="bottom_navbar_events">Event</string>
+    <string name="bottom_navbar_history">History</string>
+    <string name="title_activity_envent2">EventActivity2</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="title_image">ISENSmartCompanion</string>
+    <string name="add_history">Ajoute a l historique</string>
+    <string name="button">Bouton</string>
+    <string name="event">Evenement</string>
+    <string name="Home">Principale</string>
+    <string name="History">Historique</string>
+    <string name="delete">Supprimer</string>
+    <string name="Welcoming_message">Bienvenue sur votre assistant digital</string>
+
+</resources>
